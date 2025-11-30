@@ -1,5 +1,9 @@
 ### Домашнее задание к 13 лабораторной
 
+### Условие
+<img width="815" height="72" alt="image" src="https://github.com/user-attachments/assets/21b9fa63-b6ac-48d1-89e5-af3a797e50c2" />
+<img width="839" height="55" alt="image" src="https://github.com/user-attachments/assets/7e97129a-e4a8-403f-970b-85059d6d717d" />
+
 ### Программа
 ```
 #include <stdio.h>
